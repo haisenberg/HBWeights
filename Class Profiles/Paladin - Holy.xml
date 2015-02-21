@@ -9,19 +9,12 @@
 		<Talent Tier="6" Index="1" Name="Holy Prism" />
 	</TalentTree>
 	<WeightSet>
-		<DamagePerSecond>0.01</DamagePerSecond>
-		
-		<Intellect>18</Intellect>
-		<Stamina>5</Stamina>
-
-		<Haste>16</Haste>
-		<CriticalStrike>15</CriticalStrike>
-		<Versatility>13</Versatility>
-		<Multistrike>13</Multistrike>
-		<Mastery>11</Mastery>
-		<Spirit>10</Spirit>
-		<SpellPower>9</SpellPower>
-
-		<Armor>0.01</Armor>
+		<Intellect>1</Intellect>
+		<CriticalStrike>0.5</CriticalStrike>
+		<Haste>0.43</Haste>
+		<Mastery>0.41</Mastery>
+		<Multistrike>0.38</Multistrike>
+		<Versatility>0.36</Versatility>
+		<Spirit>0.85</Spirit>
 	</WeightSet>
 </ClassProfile>
